@@ -22,11 +22,11 @@
 ## What where what
 
 - Zadania 1 is located in /sources/solution/zad1
-- Zadania 2 is empty
-- Zadania 3 is App\Http\Controllers\ProductController.storeRandomItems
-- Zadania 4 is App\Http\Controllers\ProductController.index
-- Zadania 5 is App\Http\Controllers\PDFController.generatePDFProductList
-- Zadania 6 is App\Http\Controllers\EventController.convertArrayEvents
+- Zadania 2 is located in /sources/solution/zad2
+- Zadania 3 is located in App\Http\Controllers\ProductController.storeRandomItems
+- Zadania 4 is located in App\Http\Controllers\ProductController.index
+- Zadania 5 is located in App\Http\Controllers\PDFController.generatePDFProductList
+- Zadania 6 is located in App\Http\Controllers\EventController.convertArrayEvents
 
 All routs you can find in routes/web.php file 
 
