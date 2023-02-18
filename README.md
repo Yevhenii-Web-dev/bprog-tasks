@@ -10,7 +10,7 @@
 ## How install project 
 
 # Steps
-1. First you need cole all files to your server with command
+1. First you need clone all files to your server with command
 "git clone https://github.com/Yevhenii-Web-dev/bprog-tasks.git"
 2. After that you need in file .env make connect to your DB
 3. Next create tables with command 
@@ -30,4 +30,8 @@
 
 All routs you can find in routes/web.php file 
 
+
+## Required
+
+- php 8.1
 
